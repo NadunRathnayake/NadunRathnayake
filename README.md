@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NadunRathnayake
+- 👋 Hi, I’m Nadun Sudesh Rathnayake Mendis
 - 👀 I’m interested in coding java , phython, c#
 - 📫 you can reach me nadunsudesh1999@gmail.com
 - I'm currently studying in Cardiff Metropolitian Campus
